@@ -24,7 +24,7 @@
         <funcsynopsis>
             <funcprototype>
                 <funcdef>GLuint <function>glCreateProgram</function></funcdef>
-                <paramdef><parameter>void</parameter></paramdef>
+                <paramdef>void</paramdef>
             </funcprototype>
         </funcsynopsis>
     </refsynopsisdiv>

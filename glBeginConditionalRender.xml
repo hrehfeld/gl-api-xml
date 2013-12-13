@@ -27,7 +27,7 @@
         <funcsynopsis>
             <funcprototype>
                 <funcdef>void <function>glEndConditionalRender</function></funcdef>
-                <paramdef><parameter>void</parameter></paramdef>
+                <paramdef>void</paramdef>
             </funcprototype>
         </funcsynopsis>
     </refsynopsisdiv>
